@@ -1,9 +1,23 @@
 ﻿using UnityEngine;
+using UnityEngine.Audio;
 
 public class White : MonoBehaviour
 {
     #region 練習區域 - 在此區域內練習
-    
+
+
+    public GameObject bullets;
+    public GameObject shotPos;
+    public AudioClip audShot;
+    private AudioSource aud;       //音源元件
+
+
+    private void Shot()
+    {
+        aud.PlayOneShot(audShot, 1f);       
+        
+
+    }
     #endregion
 
     #region KID 區域 - 不要偷看 @3@
@@ -15,11 +29,17 @@ public class White : MonoBehaviour
     private void Start()
     {
         rig = GetComponent<Rigidbody2D>();
+        aud = GetComponent<AudioSource>();
     }
 
     private void FixedUpdate()
     {
         Move();
+        if (Input.GetMouseButtonDown(0))
+        {
+            print("發射");
+            Shot();
+        }
     }
 
     /// <summary>
