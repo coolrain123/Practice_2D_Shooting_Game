@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - Black
+    - Bullet
     - White
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -54,6 +55,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 10248}
     - Class: 114
       Script: {instanceID: 10334}
+    - Class: 114
+      Script: {instanceID: 10448}
     - Class: 114
       Script: {instanceID: 10970}
     - Class: 114
@@ -265,7 +268,7 @@ ScriptsOnlyBuild:
     className: Selectable
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: 74cf533fe707bd5226e85d89556ad45f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Black
@@ -379,7 +382,7 @@ ScriptsOnlyBuild:
     className: TimelineAsset
   - hash:
       serializedVersion: 2
-      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+      Hash: c3a0fe963bfbcd65d2effe39e5f6e162
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: White
@@ -512,4 +515,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - "Assets/\u7DF4\u7FD2\u5834\u666F.unity"
-  playerPath: C:/KID/Projects/Unity/Practice_2D_Shooting_Game/2DShooShoo
+  playerPath: C:/Users/appedu/Desktop/Practice_2D_Shooting_Game/UnityProject/git
