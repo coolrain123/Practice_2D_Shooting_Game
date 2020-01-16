@@ -14,9 +14,9 @@ public class White : MonoBehaviour
 
     private void Shot()
     {
-        aud.PlayOneShot(audShot, 1f);       
-        
-
+        aud.PlayOneShot(audShot, 1f);
+        Instantiate(bullets, shotPos.transform.position, new Quaternion(0, 0, 0, 0));
+   
     }
     #endregion
 

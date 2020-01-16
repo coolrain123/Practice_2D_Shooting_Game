@@ -19,19 +19,27 @@ public class Black : MonoBehaviour
 
     private void Update()
     {
-       
-       // if (gameObject.tag=("子彈"))
-       // {
-       //     getHurt();
-       // }
+
+        
+    }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag == "子彈") 
+        getHurt();
+        print("受傷");
     }
     private void getHurt() 
     {
-        Hp =Hp--;
+        Hp --;
         if (Hp < 0)
             Hp = 0;
         aud.PlayOneShot(audGethurt, 1f);
+        Hpui.text = Hp.ToString();       //更新血量介面
 
+        if (Hp == 0)
+        {
+            Destroy(gameObject);//破壞此腳本存在的物體
+        }
     }
 
 

@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 544}
+  m_MinSize: {x: 950, y: 494}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -73,7 +73,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 444}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
-  controlID: 15
+  controlID: 33
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -93,14 +93,14 @@ MonoBehaviour:
     y: 486
     width: 543
     height: 462
-  m_MinSize: {x: 234, y: 272}
-  m_MaxSize: {x: 10004, y: 10022}
-  m_ActualView: {fileID: 19}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 19}
   - {fileID: 13}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -122,10 +122,10 @@ MonoBehaviour:
     y: 0
     width: 543
     height: 948
-  m_MinSize: {x: 234, y: 494}
-  m_MaxSize: {x: 10004, y: 14044}
+  m_MinSize: {x: 200, y: 322}
+  m_MaxSize: {x: 4004, y: 8022}
   vertical: 1
-  controlID: 58
+  controlID: 97
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -194,10 +194,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 948
-  m_MinSize: {x: 711, y: 494}
-  m_MaxSize: {x: 18006, y: 14044}
+  m_MinSize: {x: 677, y: 444}
+  m_MaxSize: {x: 12006, y: 8044}
   vertical: 0
-  controlID: 120
+  controlID: 32
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -238,8 +238,8 @@ MonoBehaviour:
     y: 0
     width: 543
     height: 486
-  m_MinSize: {x: 204, y: 222}
-  m_MaxSize: {x: 4004, y: 4022}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -403,7 +403,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.sprite
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.sprite
         m_AssetPath: Packages/com.unity.2d.sprite
         m_Name: com.unity.2d.sprite
         m_DisplayName: 2D Sprite
@@ -459,7 +459,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.collab-proxy@1.2.16"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -538,7 +538,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.collab-proxy@1.2.16"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -617,7 +617,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.collab-proxy@1.2.16"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -696,7 +696,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.collab-proxy@1.2.16"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -775,7 +775,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.collab-proxy@1.2.16"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -854,7 +854,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ext.nunit@1.0.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -916,7 +916,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ext.nunit@1.0.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -978,7 +978,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ext.nunit@1.0.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -1040,7 +1040,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ext.nunit@1.0.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -1103,7 +1103,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1185,7 +1185,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1267,7 +1267,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1349,7 +1349,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1431,7 +1431,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1513,7 +1513,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1595,7 +1595,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1677,7 +1677,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1759,7 +1759,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1841,7 +1841,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1923,7 +1923,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -2005,7 +2005,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -2087,7 +2087,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.vscode@1.1.2"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2154,7 +2154,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.vscode@1.1.2"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2221,7 +2221,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.vscode@1.1.2"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2288,7 +2288,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.vscode@1.1.2"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2355,7 +2355,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.vscode@1.1.2"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2422,7 +2422,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.vscode@1.1.2"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2489,7 +2489,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.vscode@1.1.2"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2558,7 +2558,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.2.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.package-manager-ui
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.package-manager-ui
         m_AssetPath: Packages/com.unity.package-manager-ui
         m_Name: com.unity.package-manager-ui
         m_DisplayName: Package Manager UI
@@ -2613,7 +2613,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2707,7 +2707,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2801,7 +2801,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2895,7 +2895,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2989,7 +2989,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3083,7 +3083,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3177,7 +3177,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3271,7 +3271,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3365,7 +3365,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3459,7 +3459,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3553,7 +3553,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3647,7 +3647,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3741,7 +3741,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3835,7 +3835,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3929,7 +3929,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -4023,7 +4023,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -4117,7 +4117,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -4211,7 +4211,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -4305,7 +4305,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -4425,7 +4425,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -4591,7 +4591,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -4757,7 +4757,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -4923,7 +4923,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5089,7 +5089,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5255,7 +5255,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5421,7 +5421,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5587,7 +5587,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5753,7 +5753,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5919,7 +5919,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6085,7 +6085,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6251,7 +6251,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6417,7 +6417,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6583,7 +6583,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6749,7 +6749,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6915,7 +6915,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7081,7 +7081,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7247,7 +7247,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7413,7 +7413,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7579,7 +7579,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7745,7 +7745,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7911,7 +7911,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8077,7 +8077,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8243,7 +8243,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8409,7 +8409,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8575,7 +8575,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8741,7 +8741,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8907,7 +8907,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9048,7 +9048,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.timeline
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.timeline
         m_AssetPath: Packages/com.unity.timeline
         m_Name: com.unity.timeline
         m_DisplayName: Unity Timeline
@@ -9107,7 +9107,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui
         m_AssetPath: Packages/com.unity.ugui
         m_Name: com.unity.ugui
         m_DisplayName: Unity UI
@@ -9165,7 +9165,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
         m_AssetPath: Packages/com.unity.modules.ai
         m_Name: com.unity.modules.ai
         m_DisplayName: AI
@@ -9218,7 +9218,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
         m_AssetPath: Packages/com.unity.modules.androidjni
         m_Name: com.unity.modules.androidjni
         m_DisplayName: Android JNI
@@ -9271,7 +9271,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
         m_AssetPath: Packages/com.unity.modules.animation
         m_Name: com.unity.modules.animation
         m_DisplayName: Animation
@@ -9324,7 +9324,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
         m_AssetPath: Packages/com.unity.modules.assetbundle
         m_Name: com.unity.modules.assetbundle
         m_DisplayName: Asset Bundle
@@ -9377,7 +9377,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
         m_AssetPath: Packages/com.unity.modules.audio
         m_Name: com.unity.modules.audio
         m_DisplayName: Audio
@@ -9430,7 +9430,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
         m_AssetPath: Packages/com.unity.modules.cloth
         m_Name: com.unity.modules.cloth
         m_DisplayName: Cloth
@@ -9487,7 +9487,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
         m_AssetPath: Packages/com.unity.modules.director
         m_Name: com.unity.modules.director
         m_DisplayName: Director
@@ -9549,7 +9549,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
         m_AssetPath: Packages/com.unity.modules.imageconversion
         m_Name: com.unity.modules.imageconversion
         m_DisplayName: Image Conversion
@@ -9603,7 +9603,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
         m_AssetPath: Packages/com.unity.modules.imgui
         m_Name: com.unity.modules.imgui
         m_DisplayName: IMGUI
@@ -9656,7 +9656,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
         m_AssetPath: Packages/com.unity.modules.jsonserialize
         m_Name: com.unity.modules.jsonserialize
         m_DisplayName: JSONSerialize
@@ -9709,7 +9709,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
         m_AssetPath: Packages/com.unity.modules.particlesystem
         m_Name: com.unity.modules.particlesystem
         m_DisplayName: Particle System
@@ -9762,7 +9762,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
         m_AssetPath: Packages/com.unity.modules.physics
         m_Name: com.unity.modules.physics
         m_DisplayName: Physics
@@ -9815,7 +9815,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
         m_AssetPath: Packages/com.unity.modules.physics2d
         m_Name: com.unity.modules.physics2d
         m_DisplayName: Physics 2D
@@ -9868,7 +9868,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
         m_AssetPath: Packages/com.unity.modules.screencapture
         m_Name: com.unity.modules.screencapture
         m_DisplayName: Screen Capture
@@ -9925,7 +9925,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
         m_AssetPath: Packages/com.unity.modules.terrain
         m_Name: com.unity.modules.terrain
         m_DisplayName: Terrain
@@ -9978,7 +9978,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
         m_AssetPath: Packages/com.unity.modules.terrainphysics
         m_Name: com.unity.modules.terrainphysics
         m_DisplayName: Terrain Physics
@@ -10039,7 +10039,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
         m_AssetPath: Packages/com.unity.modules.tilemap
         m_Name: com.unity.modules.tilemap
         m_DisplayName: Tilemap
@@ -10096,7 +10096,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
         m_AssetPath: Packages/com.unity.modules.ui
         m_Name: com.unity.modules.ui
         m_DisplayName: UI
@@ -10149,7 +10149,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
         m_AssetPath: Packages/com.unity.modules.uielements
         m_Name: com.unity.modules.uielements
         m_DisplayName: UIElements
@@ -10210,7 +10210,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
         m_AssetPath: Packages/com.unity.modules.umbra
         m_Name: com.unity.modules.umbra
         m_DisplayName: Umbra
@@ -10263,7 +10263,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
         m_AssetPath: Packages/com.unity.modules.unityanalytics
         m_Name: com.unity.modules.unityanalytics
         m_DisplayName: Unity Analytics
@@ -10324,7 +10324,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
         m_AssetPath: Packages/com.unity.modules.unitywebrequest
         m_Name: com.unity.modules.unitywebrequest
         m_DisplayName: Unity Web Request
@@ -10377,7 +10377,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
         m_AssetPath: Packages/com.unity.modules.unitywebrequestassetbundle
         m_Name: com.unity.modules.unitywebrequestassetbundle
         m_DisplayName: Unity Web Request Asset Bundle
@@ -10438,7 +10438,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
         m_AssetPath: Packages/com.unity.modules.unitywebrequestaudio
         m_Name: com.unity.modules.unitywebrequestaudio
         m_DisplayName: Unity Web Request Audio
@@ -10499,7 +10499,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
         m_AssetPath: Packages/com.unity.modules.unitywebrequesttexture
         m_Name: com.unity.modules.unitywebrequesttexture
         m_DisplayName: Unity Web Request Texture
@@ -10560,7 +10560,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
         m_AssetPath: Packages/com.unity.modules.unitywebrequestwww
         m_Name: com.unity.modules.unitywebrequestwww
         m_DisplayName: Unity Web Request WWW
@@ -10637,7 +10637,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
         m_AssetPath: Packages/com.unity.modules.vehicles
         m_Name: com.unity.modules.vehicles
         m_DisplayName: Vehicles
@@ -10694,7 +10694,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
         m_AssetPath: Packages/com.unity.modules.video
         m_Name: com.unity.modules.video
         m_DisplayName: Video
@@ -10759,7 +10759,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
         m_AssetPath: Packages/com.unity.modules.vr
         m_Name: com.unity.modules.vr
         m_DisplayName: VR
@@ -10824,7 +10824,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
         m_AssetPath: Packages/com.unity.modules.wind
         m_Name: com.unity.modules.wind
         m_DisplayName: Wind
@@ -10877,7 +10877,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
         m_AssetPath: Packages/com.unity.modules.xr
         m_Name: com.unity.modules.xr
         m_DisplayName: XR
@@ -10939,7 +10939,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.sprite
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.sprite
         m_AssetPath: Packages/com.unity.2d.sprite
         m_Name: com.unity.2d.sprite
         m_DisplayName: 2D Sprite
@@ -10995,7 +10995,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.collab-proxy@1.2.16"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -11074,7 +11074,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.collab-proxy@1.2.16"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -11153,7 +11153,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.collab-proxy@1.2.16"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -11232,7 +11232,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.collab-proxy@1.2.16"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -11311,7 +11311,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.collab-proxy@1.2.16"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -11390,7 +11390,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ext.nunit@1.0.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -11452,7 +11452,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ext.nunit@1.0.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -11514,7 +11514,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ext.nunit@1.0.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -11576,7 +11576,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ext.nunit@1.0.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -11639,7 +11639,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -11721,7 +11721,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -11803,7 +11803,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -11885,7 +11885,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -11967,7 +11967,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12049,7 +12049,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12131,7 +12131,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12213,7 +12213,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12295,7 +12295,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12377,7 +12377,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12459,7 +12459,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12541,7 +12541,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.rider@1.1.0"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12623,7 +12623,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.vscode@1.1.2"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -12690,7 +12690,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.vscode@1.1.2"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -12757,7 +12757,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.vscode@1.1.2"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -12824,7 +12824,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.vscode@1.1.2"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -12891,7 +12891,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.vscode@1.1.2"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -12958,7 +12958,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.vscode@1.1.2"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -13025,7 +13025,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.ide.vscode@1.1.2"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -13094,7 +13094,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.2.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.package-manager-ui
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.package-manager-ui
         m_AssetPath: Packages/com.unity.package-manager-ui
         m_Name: com.unity.package-manager-ui
         m_DisplayName: Package Manager UI
@@ -13149,7 +13149,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13243,7 +13243,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13337,7 +13337,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13431,7 +13431,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13525,7 +13525,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13619,7 +13619,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13713,7 +13713,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13807,7 +13807,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13901,7 +13901,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13995,7 +13995,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14089,7 +14089,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14183,7 +14183,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14277,7 +14277,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14371,7 +14371,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14465,7 +14465,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14559,7 +14559,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14653,7 +14653,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14747,7 +14747,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14841,7 +14841,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.test-framework@1.0.13"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14961,7 +14961,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15127,7 +15127,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15293,7 +15293,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15459,7 +15459,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15625,7 +15625,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15791,7 +15791,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15957,7 +15957,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16123,7 +16123,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16289,7 +16289,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16455,7 +16455,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16621,7 +16621,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16787,7 +16787,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16953,7 +16953,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17119,7 +17119,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17285,7 +17285,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17451,7 +17451,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17617,7 +17617,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17783,7 +17783,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17949,7 +17949,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -18115,7 +18115,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -18281,7 +18281,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -18447,7 +18447,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -18613,7 +18613,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -18779,7 +18779,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -18945,7 +18945,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -19111,7 +19111,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -19277,7 +19277,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -19443,7 +19443,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject\\Library\\PackageCache\\com.unity.textmeshpro@2.0.1"
+        m_ResolvedPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -19584,7 +19584,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.timeline
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.timeline
         m_AssetPath: Packages/com.unity.timeline
         m_Name: com.unity.timeline
         m_DisplayName: Unity Timeline
@@ -19643,7 +19643,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui
         m_AssetPath: Packages/com.unity.ugui
         m_Name: com.unity.ugui
         m_DisplayName: Unity UI
@@ -19701,7 +19701,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
         m_AssetPath: Packages/com.unity.modules.ai
         m_Name: com.unity.modules.ai
         m_DisplayName: AI
@@ -19754,7 +19754,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
         m_AssetPath: Packages/com.unity.modules.androidjni
         m_Name: com.unity.modules.androidjni
         m_DisplayName: Android JNI
@@ -19807,7 +19807,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
         m_AssetPath: Packages/com.unity.modules.animation
         m_Name: com.unity.modules.animation
         m_DisplayName: Animation
@@ -19860,7 +19860,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
         m_AssetPath: Packages/com.unity.modules.assetbundle
         m_Name: com.unity.modules.assetbundle
         m_DisplayName: Asset Bundle
@@ -19913,7 +19913,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
         m_AssetPath: Packages/com.unity.modules.audio
         m_Name: com.unity.modules.audio
         m_DisplayName: Audio
@@ -19966,7 +19966,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
         m_AssetPath: Packages/com.unity.modules.cloth
         m_Name: com.unity.modules.cloth
         m_DisplayName: Cloth
@@ -20023,7 +20023,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
         m_AssetPath: Packages/com.unity.modules.director
         m_Name: com.unity.modules.director
         m_DisplayName: Director
@@ -20085,7 +20085,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
         m_AssetPath: Packages/com.unity.modules.imageconversion
         m_Name: com.unity.modules.imageconversion
         m_DisplayName: Image Conversion
@@ -20139,7 +20139,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
         m_AssetPath: Packages/com.unity.modules.imgui
         m_Name: com.unity.modules.imgui
         m_DisplayName: IMGUI
@@ -20192,7 +20192,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
         m_AssetPath: Packages/com.unity.modules.jsonserialize
         m_Name: com.unity.modules.jsonserialize
         m_DisplayName: JSONSerialize
@@ -20245,7 +20245,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
         m_AssetPath: Packages/com.unity.modules.particlesystem
         m_Name: com.unity.modules.particlesystem
         m_DisplayName: Particle System
@@ -20298,7 +20298,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
         m_AssetPath: Packages/com.unity.modules.physics
         m_Name: com.unity.modules.physics
         m_DisplayName: Physics
@@ -20351,7 +20351,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
         m_AssetPath: Packages/com.unity.modules.physics2d
         m_Name: com.unity.modules.physics2d
         m_DisplayName: Physics 2D
@@ -20404,7 +20404,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
         m_AssetPath: Packages/com.unity.modules.screencapture
         m_Name: com.unity.modules.screencapture
         m_DisplayName: Screen Capture
@@ -20461,7 +20461,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
         m_AssetPath: Packages/com.unity.modules.terrain
         m_Name: com.unity.modules.terrain
         m_DisplayName: Terrain
@@ -20514,7 +20514,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
         m_AssetPath: Packages/com.unity.modules.terrainphysics
         m_Name: com.unity.modules.terrainphysics
         m_DisplayName: Terrain Physics
@@ -20575,7 +20575,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
         m_AssetPath: Packages/com.unity.modules.tilemap
         m_Name: com.unity.modules.tilemap
         m_DisplayName: Tilemap
@@ -20632,7 +20632,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
         m_AssetPath: Packages/com.unity.modules.ui
         m_Name: com.unity.modules.ui
         m_DisplayName: UI
@@ -20685,7 +20685,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
         m_AssetPath: Packages/com.unity.modules.uielements
         m_Name: com.unity.modules.uielements
         m_DisplayName: UIElements
@@ -20746,7 +20746,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
         m_AssetPath: Packages/com.unity.modules.umbra
         m_Name: com.unity.modules.umbra
         m_DisplayName: Umbra
@@ -20799,7 +20799,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
         m_AssetPath: Packages/com.unity.modules.unityanalytics
         m_Name: com.unity.modules.unityanalytics
         m_DisplayName: Unity Analytics
@@ -20860,7 +20860,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
         m_AssetPath: Packages/com.unity.modules.unitywebrequest
         m_Name: com.unity.modules.unitywebrequest
         m_DisplayName: Unity Web Request
@@ -20913,7 +20913,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
         m_AssetPath: Packages/com.unity.modules.unitywebrequestassetbundle
         m_Name: com.unity.modules.unitywebrequestassetbundle
         m_DisplayName: Unity Web Request Asset Bundle
@@ -20974,7 +20974,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
         m_AssetPath: Packages/com.unity.modules.unitywebrequestaudio
         m_Name: com.unity.modules.unitywebrequestaudio
         m_DisplayName: Unity Web Request Audio
@@ -21035,7 +21035,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
         m_AssetPath: Packages/com.unity.modules.unitywebrequesttexture
         m_Name: com.unity.modules.unitywebrequesttexture
         m_DisplayName: Unity Web Request Texture
@@ -21096,7 +21096,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
         m_AssetPath: Packages/com.unity.modules.unitywebrequestwww
         m_Name: com.unity.modules.unitywebrequestwww
         m_DisplayName: Unity Web Request WWW
@@ -21173,7 +21173,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
         m_AssetPath: Packages/com.unity.modules.vehicles
         m_Name: com.unity.modules.vehicles
         m_DisplayName: Vehicles
@@ -21230,7 +21230,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
         m_AssetPath: Packages/com.unity.modules.video
         m_Name: com.unity.modules.video
         m_DisplayName: Video
@@ -21295,7 +21295,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
         m_AssetPath: Packages/com.unity.modules.vr
         m_Name: com.unity.modules.vr
         m_DisplayName: VR
@@ -21360,7 +21360,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
         m_AssetPath: Packages/com.unity.modules.wind
         m_Name: com.unity.modules.wind
         m_DisplayName: Wind
@@ -21413,7 +21413,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 2
-        m_ResolvedPath: E:\unity\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
+        m_ResolvedPath: C:\Program Files\Unity\Hub\Editor\2019.2.11f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
         m_AssetPath: Packages/com.unity.modules.xr
         m_Name: com.unity.modules.xr
         m_DisplayName: XR
@@ -111438,11 +111438,11 @@ MonoBehaviour:
         m_HideInEditor: 1
         m_DatePublishedTicks: 637104744530000000
       IsInstalled: 0
-    listPackagesVersion: 111
-    listPackagesOfflineVersion: 110
+    listPackagesVersion: 120
+    listPackagesOfflineVersion: 119
     searchOperationOngoing: 1
-    listOperationOngoing: 0
-    listOperationOfflineOngoing: 0
+    listOperationOngoing: 1
+    listOperationOfflineOngoing: 1
   SearchFilter:
     SearchText: 
   SelectionManager:
@@ -111725,7 +111725,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 72f7ffff3c3b0000663b0000783b0000
+      m_ExpandedIDs: f2faffff0e3100004a310000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -111826,20 +111826,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - "Assets/\u9810\u88FD\u7269 Prefabs"
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - "Assets/\u9810\u88FD\u7269 Prefabs"
+  - Assets/Scripts
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: "E:\\\u65B0\u589E\u8CC7\u6599\u593E\\Practice_2D_Shooting_Game\\UnityProject"
+  m_LastProjectPath: C:\Users\appedu\Desktop\Practice_2D_Shooting_Game\UnityProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d4390000
-    m_LastClickedID: 14804
-    m_ExpandedIDs: 000000008c38000000ca9a3b
+    m_SelectedIDs: 302e0000
+    m_LastClickedID: 11824
+    m_ExpandedIDs: 000000006a2d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -111867,7 +111867,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008c380000
+    m_ExpandedIDs: 000000006a2d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -111892,8 +111892,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: 2c310000
+    m_LastClickedInstanceID: 12588
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 00000000ce4d0000ce320000aa380000cc36000048300000
     m_RenameOverlay:
